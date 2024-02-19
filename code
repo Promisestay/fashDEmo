@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <header>
+        <h2>Fashion wears</h2>
+        <h1>PSTAY</h1>
+        <h4>Shopping tips</h4>
+    </header>
+
+    <nav class="navbar">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact us.html">Contact Us</a></li>
+        <li><a href="product.html">Product</a></li>
+      </ul>
+    </nav>
+
+    <main>
+      <aside>
+        <p>DIVE INTO THE WORLD OF FASHION</p>
+        <P>Fashion as a whole </P>
+        <ul>
+          <li>Facts</li>
+          <li>Grooming</li>
+          <li>Fashion Sense</li>
+          <li></li>
+        </ul>
+      </aside>
+      <section>
+        <h4>Facts</h4>
+        <p>The world of fashion is wildly known all over the world but some people dont really understand what fashion entails, they just think i just have to where cloth and not be naked,but trust me fashion is more than that.And i tell you, anything you will wear that will make you inconvenient don't bother wearing it</p> 
+        <h4>Grooming</h4>
+        <p>In this world, i mean the world of fashion grooming is very essential because without grooming trust me you will make a whole lot of nonsense thinking it is Sense. You have to know how to do something to be a master in it.</p>
+        <h>Fashion Sense</h4>
+        <p>This is another yet important thing to note before diving into this world, you have to know how to put two things together to make it wholesome, if you see some people you will be like hope this person is normal one thing you guys dont know is that, when people see the way you are dressed they will love to associate with you, but when you are dressed shabilly you know what comes next right.</p>
+        <p>Some will say "i dont care, i'm not dressing for anybody" but trust me a time will come when you will care about what people has to say about your dressing. As someone who loves dressing up i will automatically like you if you are dressed nicely and good. Should i tell you another secret,,a good dressing makes you beautiful   </p>
+      </section>
+      <article></article>
+    </main>
+
+    <footer>
+      @copyright:PROMISESTAY-PSTAY
+      Customer call:0746593253
+    </footer>
+
+</body>
+</html>
