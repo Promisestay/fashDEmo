@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+
+    <div class="gallery">
+        <a target="_blank" href="images/combi.jpg">
+        <img src="images/combi.jpg" alt="combi">
+        </a>
+        <div class="description">combo</div>
+    </div>
+
+    <div class="gallery">
+        <a target="_blank" href="images/jeans.jpg">
+        <img src="images/jeans.jpg" alt="jeans">
+        </a>
+        <div class="description">jeans</div>
+    </div>
+    <div class="gallery">
+        <a target="_blank" href="images/turtle neck.png">
+        <img src="images/turtle neck.png" alt="turtle neck">
+        </a> 
+        <div class="description">turtle neck</div>
+    </div>
+    <div class="gallery">
+        <a target="_blank" href="images/long hand.png">
+        <img src="images/long hand.png" alt="long hand">
+        </a>
+        <div class="description">long hand</div>
+    </div>
+    <div class="gallery">
+        <a target="_blank" href="images/jack.png">
+        <img src="images/jack.png" alt="jack">
+        </a>
+        <div class="description">jack</div>
+    </div>
+    <div class="gallery">
+        <a target="_blank" href="images/up and down.png">
+        <img src="images/up and down.png" alt="up and down">
+        </a>
+        <div class="description">up and down</div>
+    </div>
+    <div class="gallery">
+        <a target="_blank" href="images/sandal.png">
+        <img src="images/sandal.png" alt="sandal">
+        </a>
+        <div class="description">sandal</div>
+    </div>
+    <div class="gallery">
+        <a target="_blank" href="images/white.jpg">
+        <img src="images/white.jpg" alt="white">
+        </a>
+        <div class="description">shirts</div>
+    </div>
+    <div class="gallery">
+        <a target="_blank" href="images/overall.png">
+        <img src="images/overall.png" alt="overall">
+        </a>
+        <div class="description">overall</div>
+    </div>
+    <div class="gallery">
+        <a target="_blank" href="images/louis.png">
+        <img src="images/louis.png" alt="louis">
+        </a>
