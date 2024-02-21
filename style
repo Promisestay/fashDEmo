@@ -1,0 +1,63 @@
+body{
+    margin: 0px;
+}
+header{
+    background-color: peru;
+    text-align: center;
+    padding: 5px;
+}
+h1{
+    text-shadow: 2px 3px hsl(350, 60%, 60%);
+}
+h2{
+    text-align: right;
+}
+h3{
+    text-align: left
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(16, 16, 16);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: hsl(0, 3%, 26%);
+}
+.navbar li{
+    float: left;
+}
+footer{
+    background-color: peru;
+    text-align: center;
+    padding: 5px;
+}
+h3{
+    text-align: center;
+    color: bisque;
+}
+.gallery{
+    display: inline-block;
+    border: 1px solid hsl(0, 4%, 54%);
+    margin: 5px;
+    width: 200px;
+}
+.gallery .description{
+    padding: 10px;
+    text-align: center;
+}
+.gallery:hover{
+    border: 1px solid  hsl(0, 0%, 20%);
+}
+.gallery img{
+    width: 100%;
+    height: auto;
+}
